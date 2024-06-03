@@ -21,7 +21,7 @@
 ### React
 
 - [React JSONSchema Form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
-- [FormRender](https://github.com/alibaba/x-render) - React 动态表单解决方案
+- [FormRender](https://github.com/alibaba/x-render) - 飞猪 React 动态表单解决方案
 - [drip-form](https://github.com/jd-opensource/drip-form) - 基于 React 和 JSONSchema 的动态表单解决方案
 
 ### Vue
