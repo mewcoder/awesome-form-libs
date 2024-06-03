@@ -27,6 +27,7 @@
 ### Vue
 
 - [vue-json-schema-form](https://github.com/lljj-x/vue-json-schema-form) -  Generate a form using Vue/Vue3, Json Schema and ElementUi/antdv/iview3/naiveUi
+- [form-generator](https://github.com/JakHuang/form-generator) - Element UI表单设计及代码生成器
 - [variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
 - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.
 - [form-create](https://github.com/xaboy/form-create) - Vue 表单设计器
