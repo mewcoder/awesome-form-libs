@@ -14,7 +14,7 @@
 
 - [formkit](https://github.com/formkit/formkit) - Vue Forms  Supercharged.
 - [vue-formulate](https://github.com/wearebraid/vue-formulate) - The easiest way to build forms with Vue.
-
+- [vueform](https://github.com/vueform/vueform) - Open-Source Form Framework for Vue
 
 ## Dynamic Form / Builder
 
