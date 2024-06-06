@@ -31,7 +31,7 @@
 - [variant-form](https://github.com/vform666/variant-form) - A powerful form designer for Vue.
 - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.
 - [form-create](https://github.com/xaboy/form-create) - Vue 表单设计器
-- [https://github.com/vueform/vueform] - Open-Source Form Framework for Vue
+- [vueform](https://github.com/vueform/vueform) - Open-Source Form Framework for Vue
 
 ## Validation
 
